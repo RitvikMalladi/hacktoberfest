@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+- 
+#### Name: [RitvikMalladi](https://github.com/RitvikMalladi/)
+- Place: Jaipur, Rajasthan, India
+- Bio: Currently pursuing Btech in Computer Science
+- Github: [RitvikMalladi](https://github.com/RitvikMalladi/)
